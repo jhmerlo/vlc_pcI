@@ -1,5 +1,11 @@
-# vlc_pcI
-work on the discipline of communications principles I at UFES
+# About
+Work on the discipline of communications principles I at UFES.
+
+## Contributors:
+Thalis Rocha Pestana | Leonardo Ferreira | José Henrique Merlo.
+
+## Original Project:
+Alaf do Nascimento Santos | @alafSantos
 
 # VLC
 Visible Light Communication:
