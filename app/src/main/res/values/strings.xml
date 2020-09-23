@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PC_VLC_rx</string>
+
+    <string name="menu">MENU PRINCIPAL</string>
+
+    <string name="btnStart">INICIAR</string>
+    <string name="btnExit">SAIR</string>
+
+
+    <string name="action_start">Reiniciar</string>
+    <string name="action_sair">Sair</string>
+
+</resources>
